@@ -1,0 +1,11 @@
+alien 1 tries to move from A to B
+alien 2 is waiting
+alien 3 tries to move from D to B
+alien 4 tries to move from E to D
+alien 5 tries to move from C to B
+B has been destroyed by alien 1 and alien 2!
+alien 3 reporting! mad aliens already fighting! going back to D
+alien 5 reporting! mad aliens already fighting! going back to C
+D has been destroyed by alien 3 and alien 4!
+alien 5 is being stuck
+all aliens are dead or stuck

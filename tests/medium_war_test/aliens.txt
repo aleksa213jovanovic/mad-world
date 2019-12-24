@@ -1,0 +1,4 @@
+1=A east
+2=B east
+3=D south
+4=E west

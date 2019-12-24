@@ -1,0 +1,8 @@
+alien 1 tries to move from A to B
+alien 2 tries to move from B to C
+alien 3 tries to move from D to B
+alien 4 tries to move from E to D
+B has been destroyed by alien 1 and alien 3!
+alien 2 is being stuck
+alien 4 is being stuck
+all aliens are dead or stuck

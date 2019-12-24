@@ -1,0 +1,21 @@
+alien 1 tries to move from A to B
+alien 2 tries to move from B to A
+alien 1 tries to move from B to A
+alien 2 tries to move from A to B
+alien 1 tries to move from A to B
+alien 2 tries to move from B to A
+alien 1 tries to move from B to A
+alien 2 tries to move from A to B
+alien 1 tries to move from A to B
+alien 2 tries to move from B to A
+alien 1 tries to move from B to A
+alien 2 tries to move from A to B
+alien 1 tries to move from A to B
+alien 2 tries to move from B to A
+alien 1 tries to move from B to A
+alien 2 tries to move from A to B
+alien 1 tries to move from A to B
+alien 2 tries to move from B to A
+alien 1 tries to move from B to A
+alien 2 tries to move from A to B
+all aliens have reached max iterations

@@ -1,0 +1,5 @@
+1=A east
+2=B wait
+3=D south
+4=E west
+5=C west

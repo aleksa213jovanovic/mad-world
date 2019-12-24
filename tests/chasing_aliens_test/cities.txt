@@ -1,0 +1,2 @@
+A east=B
+B east=A

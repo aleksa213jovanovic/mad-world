@@ -1,0 +1,6 @@
+A east=B south=G
+B west=A east=C
+C west=B east=D south=E
+D west=C east=G
+E north=C
+G north=A west=D
